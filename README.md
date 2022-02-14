@@ -17,10 +17,10 @@
 <h3 align='center'> 💭 </p>
 
 <a href="https://tooo1.tistory.com/"><img alt="Tistory" src="https://img.shields.io/badge/-TISTORY-black?style=for-the-badge"/></a>
-
-<h2> 📃 나의 뉴스 기사 📃</p>
-<h4><a href="https://news.mt.co.kr/mtview.php?no=2022020713482982747">머니투데이 - 인턴 관련</a></br>
-<h4><a href="https://news.nate.com/view/20220207n29633?mid=n0100">네이트뉴스 - 인턴 관련</a>
+</br>
+<h2 align='center'> 📃 나의 뉴스 기사 📃</p>
+<h4 align='center'><a href="https://news.mt.co.kr/mtview.php?no=2022020713482982747">머니투데이 - 인턴 관련</a></br>
+<h4 align='center'><a href="https://news.nate.com/view/20220207n29633?mid=n0100">네이트뉴스 - 인턴 관련</a>
 
 
 
