@@ -21,6 +21,7 @@
 <h2 align='center'> 📃 나의 뉴스 기사 📃</p>
 <h4 align='center'><a href="https://news.mt.co.kr/mtview.php?no=2022020713482982747">머니투데이 - 인턴 관련</a></br>
 <h4 align='center'><a href="https://news.nate.com/view/20220207n29633?mid=n0100">네이트뉴스 - 인턴 관련</a>
+<h4 align='center'><a href="https://foresuu.com/mall/m_view.php?ps_db=partner&ps_boid=14">포레슈 - 인턴 관련</a>
 <h4 align='center'><a href="https://www.suwon.ac.kr/index.html?menuno=3013&bbsno=80&boardno=1114&siteno=37&act=view">학교 학보사 - 인턴 최우수상, 누가더쎔?, 동아리 회장 관련</a>
 </br>
 <h2 align='center'> 🏆 나의 수상 내역 🏆</p>
